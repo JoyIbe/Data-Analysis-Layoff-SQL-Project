@@ -1,5 +1,5 @@
 -- Exploratory Data Analysis
-
+--  Exploring a Layoff.csv dataset
 -- Recalling Layoff staging table
 SELECT *
 FROM layoffs_staging2;
