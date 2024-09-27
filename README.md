@@ -1,2 +1,2 @@
 # Layoff Data Analysis
-The goal of this breif analysis is to understand global trends of layoff over the years since Covid. 
+The primary goal of this breif analysis is to understand global trends of layoff over the years since Covid. Identifying companies and industries mostly affected by this economic downturn, examining the length of setbacks across popular companies and startups, revealing valuable insights about the dynamic nature of employement challenges to commute layoffs and aid strategic decision-making.    
